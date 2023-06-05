@@ -15,3 +15,15 @@ A good separation of concern between API layer and data-fetching layer allows fo
 # Bonus: 
 - Implement sorting and ordering on GET endpoints
 - Unit testing
+
+
+# Development
+    - Python 3.11.3
+    - [requirement.txt]
+
+# Run stage
+    - [run_stage.bat] for development run.
+
+# Work In Progress
+ - Full testing
+ - Unit test
